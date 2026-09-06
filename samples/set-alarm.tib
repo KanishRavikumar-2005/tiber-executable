@@ -1,0 +1,19 @@
+live("clock")
+
+clock.press.button("tab_menu_alarm")
+
+[add new]
+live("alarms")
+
+alarms.press.button("fab")
+
+[set hour]
+live("hourset")
+hourset.press.button("2 o'clock")
+
+[set minute]
+hourset.press.button("material_minute_tv")
+
+live("minutes")
+minutes.press.button("30 minutes")
+minutes.press.button("material_timepicker_ok_button")
