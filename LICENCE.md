@@ -59,9 +59,9 @@ This Licence grants permission to use Tiber. It does not transfer ownership of T
 
 ## 4. Duration, Withdrawal, Suspension and Restriction
 
-The licence granted to you is intended to continue **indefinitely unless it is withdrawn, suspended, restricted, or terminated** in accordance with this Licence.
+The licence granted to you under this Licence is intended to continue **indefinitely unless it is withdrawn, suspended, restricted, or terminated** in accordance with this Licence.
 
-The Licensor may, subject to applicable law:
+The licence granted under this Licence is provided **free of charge by default and is revocable**. The Licensor may, subject to applicable law:
 
 * withdraw the licence;
 * suspend the licence;
@@ -70,15 +70,17 @@ The Licensor may, subject to applicable law:
 * change the scope of the licence; or
 * establish conditions for its continued use.
 
-These actions may be taken in relation to a particular user, organisation, version of Tiber, category of use, or another clearly defined scope.
-
-The Licensor may take such action independently of whether a user has breached this Licence.
+These actions may be taken in relation to a particular user, organisation, version of Tiber, category of use, or another clearly defined scope. The Licensor may take such action independently of whether a user has breached this Licence.
 
 Where practical, the applicable notice will identify the scope and effective date of the withdrawal, suspension, restriction, or termination.
 
 Unless otherwise stated or required by applicable law, these changes operate prospectively and do not retroactively invalidate use that was authorised before the applicable effective date.
 
 The Licensor may subsequently reinstate or modify a withdrawn, suspended, or restricted licence.
+
+### Contractual Licences
+
+Where Tiber is licensed to a person or organisation under a **separate written contract, agreement, or other contractual licensing arrangement**, the terms of that contractual licence will apply to the extent of any conflict with this Licence. The duration, withdrawal, suspension, restriction, termination, and other conditions of such contractual licence will be governed by the applicable contract.
 
 ---
 
